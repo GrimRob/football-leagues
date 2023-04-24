@@ -1,5 +1,5 @@
 # League Two Table (2022-2023)
-## Updated: 22-Apr-2023
+## Updated: 24-Apr-2023
 
 | Pos | Team | P | W | D | L | F | A | GD | Pts |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
