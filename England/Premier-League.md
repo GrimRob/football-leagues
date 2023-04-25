@@ -1,5 +1,5 @@
 # Premier League Table (2022-2023)
-## Updated: 24-Apr-2023
+## Updated: 25-Apr-2023
 
 | Pos | Team | P | W | D | L | F | A | GD | Pts |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
