@@ -1,5 +1,5 @@
 # National League North Table (2022-2023)
-## Updated: 07-May-2023
+## Updated: 14-May-2023
 
 | Pos | Team | P | W | D | L | F | A | GD | Pts |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
