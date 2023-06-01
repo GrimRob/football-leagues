@@ -1,5 +1,5 @@
 # League One Table (2022-2023)
-## Updated: 19-May-2023
+## Updated: 29-May-2023
 
 | Pos | Team | P | W | D | L | F | A | GD | Pts |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
