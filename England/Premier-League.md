@@ -1,5 +1,5 @@
 # Premier League Table (2023-2024)
-## Updated: 12-Aug-2023
+## Updated: 13-Aug-2023
 
 | Pos | Team | P | W | D | L | F | A | GD | Pts |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -9,14 +9,14 @@
 | 4 | Arsenal | 1 | 1 | 0 | 0 | 2 | 1 | 1 | 3 |
 | 5 | Fulham | 1 | 1 | 0 | 0 | 1 | 0 | 1 | 3 |
 | 6 | Crystal Palace | 1 | 1 | 0 | 0 | 1 | 0 | 1 | 3 |
-| 7 | West Ham | 1 | 0 | 1 | 0 | 1 | 1 | 0 | 1 |
-| 8 | Bournemouth | 1 | 0 | 1 | 0 | 1 | 1 | 0 | 1 |
-| 9 | Chelsea | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 10 | Liverpool | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 11 | Man Utd | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 12 | Tottenham | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 13 | Wolverhampton | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 14 | Brentford | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 7 | Tottenham | 1 | 0 | 1 | 0 | 2 | 2 | 0 | 1 |
+| 8 | West Ham | 1 | 0 | 1 | 0 | 1 | 1 | 0 | 1 |
+| 9 | Bournemouth | 1 | 0 | 1 | 0 | 1 | 1 | 0 | 1 |
+| 10 | Brentford | 1 | 0 | 1 | 0 | 2 | 2 | 0 | 1 |
+| 11 | Liverpool | 1 | 0 | 1 | 0 | 1 | 1 | 0 | 1 |
+| 12 | Chelsea | 1 | 0 | 1 | 0 | 1 | 1 | 0 | 1 |
+| 13 | Man Utd | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 14 | Wolverhampton | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 15 | Nott'm Forest | 1 | 0 | 0 | 1 | 1 | 2 | -1 | 0 |
 | 16 | Everton | 1 | 0 | 0 | 1 | 0 | 1 | -1 | 0 |
 | 17 | Sheffield Utd | 1 | 0 | 0 | 1 | 0 | 1 | -1 | 0 |
