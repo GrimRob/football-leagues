@@ -1,32 +1,32 @@
 # National League Table (2023-2024)
-## Updated: 15-Aug-2023
+## Updated: 19-Aug-2023
 
 | Pos | Team | P | W | D | L | F | A | GD | Pts |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | Chesterfield | 3 | 3 | 0 | 0 | 10 | 6 | 4 | 9 |
-| 2 | Barnet | 3 | 2 | 1 | 0 | 8 | 5 | 3 | 7 |
-| 3 | Southend | 3 | 2 | 0 | 1 | 7 | 2 | 5 | 6 |
-| 4 | Hartlepool | 3 | 2 | 0 | 1 | 7 | 5 | 2 | 6 |
-| 5 | Ebbsfleet United | 3 | 2 | 0 | 1 | 4 | 2 | 2 | 6 |
-| 6 | FC Halifax | 3 | 2 | 0 | 1 | 4 | 3 | 1 | 6 |
-| 7 | Altrincham | 3 | 1 | 2 | 0 | 6 | 5 | 1 | 5 |
-| 8 | Wealdstone | 3 | 1 | 2 | 0 | 3 | 2 | 1 | 5 |
-| 9 | Boreham Wood | 2 | 1 | 1 | 0 | 4 | 2 | 2 | 4 |
-| 10 | Gateshead | 3 | 1 | 1 | 1 | 7 | 6 | 1 | 4 |
-| 11 | Solihull Moors | 2 | 1 | 1 | 0 | 3 | 2 | 1 | 4 |
-| 12 | Maidenhead Utd | 3 | 1 | 1 | 1 | 5 | 5 | 0 | 4 |
-| 13 | Woking | 3 | 1 | 1 | 1 | 5 | 5 | 0 | 4 |
-| 14 | Kidderminster | 3 | 1 | 1 | 1 | 2 | 2 | 0 | 4 |
-| 15 | AFC Fylde | 3 | 1 | 1 | 1 | 6 | 7 | -1 | 4 |
-| 16 | Eastleigh | 3 | 0 | 3 | 0 | 4 | 4 | 0 | 3 |
-| 17 | Oldham | 3 | 1 | 0 | 2 | 6 | 7 | -1 | 3 |
-| 18 | Rochdale | 3 | 1 | 0 | 2 | 3 | 4 | -1 | 3 |
-| 19 | Dorking Wanderers | 3 | 1 | 0 | 2 | 5 | 7 | -2 | 3 |
-| 20 | Aldershot | 3 | 1 | 0 | 2 | 6 | 9 | -3 | 3 |
-| 21 | York | 3 | 0 | 1 | 2 | 3 | 5 | -2 | 1 |
-| 22 | Dagenham | 3 | 0 | 1 | 2 | 3 | 7 | -4 | 1 |
-| 23 | Bromley | 3 | 0 | 1 | 2 | 1 | 5 | -4 | 1 |
-| 24 | Oxford City | 3 | 0 | 0 | 3 | 3 | 8 | -5 | 0 |
+| 1 | Barnet | 4 | 3 | 1 | 0 | 10 | 5 | 5 | 10 |
+| 2 | Solihull Moors | 4 | 3 | 1 | 0 | 8 | 3 | 5 | 10 |
+| 3 | Chesterfield | 4 | 3 | 1 | 0 | 11 | 7 | 4 | 10 |
+| 4 | Hartlepool | 4 | 3 | 0 | 1 | 10 | 7 | 3 | 9 |
+| 5 | Wealdstone | 4 | 2 | 2 | 0 | 6 | 4 | 2 | 8 |
+| 6 | Gateshead | 4 | 2 | 1 | 1 | 11 | 7 | 4 | 7 |
+| 7 | Maidenhead Utd | 4 | 2 | 1 | 1 | 6 | 5 | 1 | 7 |
+| 8 | FC Halifax | 4 | 2 | 1 | 1 | 5 | 4 | 1 | 7 |
+| 9 | Southend | 4 | 2 | 0 | 2 | 9 | 5 | 4 | 6 |
+| 10 | Altrincham | 4 | 1 | 3 | 0 | 7 | 6 | 1 | 6 |
+| 11 | Rochdale | 4 | 2 | 0 | 2 | 5 | 4 | 1 | 6 |
+| 12 | Ebbsfleet United | 4 | 2 | 0 | 2 | 5 | 6 | -1 | 6 |
+| 13 | Boreham Wood | 4 | 1 | 2 | 1 | 6 | 5 | 1 | 5 |
+| 14 | Kidderminster | 4 | 1 | 2 | 1 | 2 | 2 | 0 | 5 |
+| 15 | Oldham | 4 | 1 | 1 | 2 | 7 | 8 | -1 | 4 |
+| 16 | AFC Fylde | 4 | 1 | 1 | 2 | 8 | 10 | -2 | 4 |
+| 17 | Woking | 4 | 1 | 1 | 2 | 5 | 7 | -2 | 4 |
+| 18 | Aldershot | 4 | 1 | 1 | 2 | 7 | 10 | -3 | 4 |
+| 19 | Eastleigh | 4 | 0 | 3 | 1 | 4 | 6 | -2 | 3 |
+| 20 | Dorking Wanderers | 4 | 1 | 0 | 3 | 5 | 10 | -5 | 3 |
+| 21 | York | 4 | 0 | 2 | 2 | 4 | 6 | -2 | 2 |
+| 22 | Bromley | 4 | 0 | 2 | 2 | 1 | 5 | -4 | 2 |
+| 23 | Oxford City | 4 | 0 | 1 | 3 | 4 | 9 | -5 | 1 |
+| 24 | Dagenham | 4 | 0 | 1 | 3 | 3 | 8 | -5 | 1 |
 
 ## Accreditation 
 
