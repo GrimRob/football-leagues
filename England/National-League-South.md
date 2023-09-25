@@ -1,32 +1,32 @@
 # National League South Table (2023-2024)
-## Updated: 09-Sept-2023
+## Updated: 23-Sept-2023
 
 | Pos | Team | P | W | D | L | F | A | GD | Pts |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | Bath City | 9 | 6 | 2 | 1 | 19 | 12 | 7 | 20 |
-| 2 | Worthing | 9 | 6 | 1 | 2 | 16 | 8 | 8 | 19 |
-| 3 | Torquay | 9 | 6 | 1 | 2 | 15 | 11 | 4 | 19 |
-| 4 | Aveley | 9 | 6 | 0 | 3 | 14 | 7 | 7 | 18 |
-| 5 | Taunton Town | 9 | 5 | 3 | 1 | 16 | 12 | 4 | 18 |
-| 6 | Yeovil | 9 | 5 | 2 | 2 | 17 | 13 | 4 | 17 |
-| 7 | Chelmsford | 9 | 4 | 3 | 2 | 12 | 8 | 4 | 15 |
-| 8 | Maidstone United | 9 | 4 | 3 | 2 | 12 | 11 | 1 | 15 |
-| 9 | Truro City | 9 | 4 | 2 | 3 | 17 | 12 | 5 | 14 |
-| 10 | Hemel | 9 | 3 | 4 | 2 | 9 | 8 | 1 | 13 |
-| 11 | St Albans | 9 | 4 | 1 | 4 | 10 | 10 | 0 | 13 |
-| 12 | Chippenham | 9 | 3 | 3 | 3 | 13 | 13 | 0 | 12 |
-| 13 | Farnborough | 9 | 3 | 3 | 3 | 12 | 12 | 0 | 12 |
-| 14 | Weston-S-Mare | 9 | 3 | 2 | 4 | 13 | 15 | -2 | 11 |
-| 15 | Braintree Town | 9 | 2 | 4 | 3 | 12 | 10 | 2 | 10 |
-| 16 | Eastbourne Boro | 9 | 3 | 1 | 5 | 9 | 12 | -3 | 10 |
-| 17 | Tonbridge Angels | 9 | 3 | 1 | 5 | 8 | 11 | -3 | 10 |
-| 18 | Weymouth | 9 | 3 | 1 | 5 | 10 | 14 | -4 | 10 |
-| 19 | Dartford | 9 | 2 | 3 | 4 | 9 | 10 | -1 | 9 |
-| 20 | Slough Town | 9 | 3 | 0 | 6 | 14 | 18 | -4 | 9 |
-| 21 | Hampton and Richmond | 9 | 2 | 3 | 4 | 8 | 14 | -6 | 9 |
-| 22 | Welling | 9 | 2 | 1 | 6 | 7 | 14 | -7 | 7 |
-| 23 | Dover | 9 | 1 | 3 | 5 | 7 | 15 | -8 | 6 |
-| 24 | Havant and Waterlooville | 9 | 1 | 1 | 7 | 12 | 21 | -9 | 4 |
+| 1 | Bath City | 10 | 6 | 3 | 1 | 21 | 14 | 7 | 21 |
+| 2 | Yeovil | 10 | 6 | 2 | 2 | 19 | 14 | 5 | 20 |
+| 3 | Aveley | 10 | 6 | 1 | 3 | 15 | 8 | 7 | 19 |
+| 4 | Worthing | 10 | 6 | 1 | 3 | 16 | 12 | 4 | 19 |
+| 5 | Taunton Town | 10 | 5 | 4 | 1 | 16 | 12 | 4 | 19 |
+| 6 | Torquay | 10 | 6 | 1 | 3 | 17 | 14 | 3 | 19 |
+| 7 | Maidstone United | 10 | 5 | 3 | 2 | 16 | 11 | 5 | 18 |
+| 8 | St Albans | 10 | 5 | 1 | 4 | 12 | 10 | 2 | 16 |
+| 9 | Hemel | 10 | 4 | 4 | 2 | 12 | 10 | 2 | 16 |
+| 10 | Chelmsford | 10 | 4 | 3 | 3 | 12 | 10 | 2 | 15 |
+| 11 | Truro City | 10 | 4 | 2 | 4 | 17 | 13 | 4 | 14 |
+| 12 | Weston-S-Mare | 10 | 4 | 2 | 4 | 14 | 15 | -1 | 14 |
+| 13 | Chippenham | 10 | 3 | 4 | 3 | 14 | 14 | 0 | 13 |
+| 14 | Farnborough | 10 | 3 | 4 | 3 | 14 | 14 | 0 | 13 |
+| 15 | Dartford | 10 | 3 | 3 | 4 | 10 | 10 | 0 | 12 |
+| 16 | Braintree Town | 10 | 2 | 5 | 3 | 13 | 11 | 2 | 11 |
+| 17 | Eastbourne Boro | 10 | 3 | 2 | 5 | 11 | 14 | -3 | 11 |
+| 18 | Weymouth | 10 | 3 | 2 | 5 | 11 | 15 | -4 | 11 |
+| 19 | Slough Town | 10 | 3 | 1 | 6 | 16 | 20 | -4 | 10 |
+| 20 | Tonbridge Angels | 10 | 3 | 1 | 6 | 8 | 12 | -4 | 10 |
+| 21 | Hampton and Richmond | 10 | 2 | 3 | 5 | 9 | 16 | -7 | 9 |
+| 22 | Welling | 10 | 2 | 2 | 6 | 9 | 16 | -7 | 8 |
+| 23 | Dover | 10 | 1 | 4 | 5 | 9 | 17 | -8 | 7 |
+| 24 | Havant and Waterlooville | 10 | 1 | 2 | 7 | 12 | 21 | -9 | 5 |
 
 ## Accreditation 
 
