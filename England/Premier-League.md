@@ -1,5 +1,5 @@
 # Premier League Table (2023-2024)
-## Updated: 02-Oct-2023
+## Updated: 03-Oct-2023
 
 | Pos | Team | P | W | D | L | F | A | GD | Pts |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -19,9 +19,9 @@
 | 14 | Brentford | 7 | 1 | 4 | 2 | 10 | 10 | 0 | 7 |
 | 15 | Wolverhampton | 7 | 2 | 1 | 4 | 8 | 13 | -5 | 7 |
 | 16 | Everton | 7 | 1 | 1 | 5 | 6 | 12 | -6 | 4 |
-| 17 | Luton | 6 | 1 | 1 | 4 | 5 | 12 | -7 | 4 |
-| 18 | Bournemouth | 7 | 0 | 3 | 4 | 5 | 15 | -10 | 3 |
-| 19 | Burnley | 6 | 0 | 1 | 5 | 4 | 15 | -11 | 1 |
+| 17 | Luton | 7 | 1 | 1 | 5 | 6 | 14 | -8 | 4 |
+| 18 | Burnley | 7 | 1 | 1 | 5 | 6 | 16 | -10 | 4 |
+| 19 | Bournemouth | 7 | 0 | 3 | 4 | 5 | 15 | -10 | 3 |
 | 20 | Sheffield Utd | 7 | 0 | 1 | 6 | 5 | 19 | -14 | 1 |
 
 ## Accreditation 
