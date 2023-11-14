@@ -1,15 +1,15 @@
 # National League South Table (2023-2024)
-## Updated: 11-Nov-2023
+## Updated: 13-Nov-2023
 
 | Pos | Team | P | W | D | L | F | A | GD | Pts |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1 | Yeovil | 16 | 12 | 2 | 2 | 33 | 17 | 16 | 38 |
-| 2 | Aveley | 17 | 10 | 2 | 5 | 26 | 17 | 9 | 32 |
+| 2 | Aveley | 18 | 10 | 2 | 6 | 27 | 19 | 8 | 32 |
 | 3 | Bath City | 17 | 9 | 4 | 4 | 35 | 22 | 13 | 31 |
 | 4 | Hampton and Richmond | 18 | 9 | 4 | 5 | 29 | 24 | 5 | 31 |
-| 5 | Torquay | 17 | 9 | 1 | 7 | 29 | 25 | 4 | 28 |
-| 6 | Maidstone United | 16 | 7 | 6 | 3 | 23 | 18 | 5 | 27 |
-| 7 | Chelmsford | 17 | 6 | 8 | 3 | 23 | 17 | 6 | 26 |
+| 5 | Chelmsford | 18 | 7 | 8 | 3 | 25 | 18 | 7 | 29 |
+| 6 | Torquay | 17 | 9 | 1 | 7 | 29 | 25 | 4 | 28 |
+| 7 | Maidstone United | 16 | 7 | 6 | 3 | 23 | 18 | 5 | 27 |
 | 8 | Worthing | 15 | 8 | 2 | 5 | 25 | 20 | 5 | 26 |
 | 9 | Farnborough | 17 | 6 | 7 | 4 | 29 | 22 | 7 | 25 |
 | 10 | Braintree Town | 17 | 6 | 6 | 5 | 27 | 18 | 9 | 24 |
