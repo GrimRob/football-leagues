@@ -1,32 +1,32 @@
 # National League North Table (2023-2024)
-## Updated: 11-Nov-2023
+## Updated: 14-Nov-2023
 
 | Pos | Team | P | W | D | L | F | A | GD | Pts |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | Scunthorpe | 17 | 10 | 4 | 3 | 38 | 15 | 23 | 34 |
-| 2 | Tamworth | 17 | 10 | 2 | 5 | 29 | 12 | 17 | 32 |
-| 3 | South Shields | 18 | 9 | 5 | 4 | 30 | 18 | 12 | 32 |
-| 4 | Spennymoor Town | 17 | 9 | 3 | 5 | 28 | 23 | 5 | 30 |
-| 5 | Alfreton Town | 16 | 8 | 3 | 5 | 30 | 21 | 9 | 27 |
-| 6 | Chorley | 16 | 7 | 5 | 4 | 20 | 17 | 3 | 26 |
-| 7 | Curzon Ashton | 16 | 7 | 4 | 5 | 21 | 15 | 6 | 25 |
-| 8 | Warrington | 17 | 7 | 4 | 6 | 24 | 24 | 0 | 25 |
-| 9 | Boston Utd | 17 | 7 | 4 | 6 | 17 | 18 | -1 | 25 |
-| 10 | Brackley | 17 | 6 | 6 | 5 | 22 | 16 | 6 | 24 |
-| 11 | Banbury Utd | 16 | 7 | 3 | 6 | 13 | 20 | -7 | 24 |
-| 12 | Southport | 18 | 7 | 3 | 8 | 22 | 31 | -9 | 24 |
-| 13 | Buxton | 18 | 6 | 5 | 7 | 28 | 20 | 8 | 23 |
-| 14 | Chester | 15 | 7 | 2 | 6 | 19 | 14 | 5 | 23 |
-| 15 | Blyth Spartans | 17 | 6 | 5 | 6 | 25 | 21 | 4 | 23 |
-| 16 | Scarborough Athletic | 16 | 7 | 2 | 7 | 19 | 21 | -2 | 23 |
-| 17 | Hereford | 16 | 7 | 2 | 7 | 15 | 19 | -4 | 23 |
-| 18 | Farsley Celtic | 17 | 6 | 5 | 6 | 17 | 22 | -5 | 23 |
-| 19 | Peterborough Sports | 18 | 6 | 4 | 8 | 19 | 25 | -6 | 22 |
-| 20 | Kings Lynn Town | 18 | 4 | 7 | 7 | 20 | 30 | -10 | 19 |
-| 21 | Rushall | 17 | 5 | 3 | 9 | 23 | 27 | -4 | 18 |
-| 22 | Darlington | 17 | 3 | 5 | 9 | 15 | 33 | -18 | 14 |
-| 23 | Bishop's Stortford | 18 | 4 | 1 | 13 | 16 | 36 | -20 | 13 |
-| 24 | Gloucester | 17 | 2 | 5 | 10 | 13 | 25 | -12 | 11 |
+| 1 | Tamworth | 18 | 11 | 2 | 5 | 31 | 13 | 18 | 35 |
+| 2 | South Shields | 19 | 10 | 5 | 4 | 35 | 20 | 15 | 35 |
+| 3 | Scunthorpe | 18 | 10 | 4 | 4 | 39 | 18 | 21 | 34 |
+| 4 | Spennymoor Town | 18 | 9 | 3 | 6 | 30 | 28 | 2 | 30 |
+| 5 | Chorley | 17 | 8 | 5 | 4 | 28 | 17 | 11 | 29 |
+| 6 | Alfreton Town | 17 | 8 | 4 | 5 | 31 | 22 | 9 | 28 |
+| 7 | Curzon Ashton | 17 | 8 | 4 | 5 | 24 | 16 | 8 | 28 |
+| 8 | Boston Utd | 18 | 8 | 4 | 6 | 19 | 18 | 1 | 28 |
+| 9 | Brackley | 18 | 7 | 6 | 5 | 24 | 16 | 8 | 27 |
+| 10 | Hereford | 17 | 8 | 2 | 7 | 19 | 20 | -1 | 26 |
+| 11 | Warrington | 17 | 7 | 4 | 6 | 24 | 24 | 0 | 25 |
+| 12 | Southport | 19 | 7 | 4 | 8 | 23 | 32 | -9 | 25 |
+| 13 | Farsley Celtic | 18 | 6 | 6 | 6 | 18 | 23 | -5 | 24 |
+| 14 | Banbury Utd | 17 | 7 | 3 | 7 | 14 | 24 | -10 | 24 |
+| 15 | Buxton | 18 | 6 | 5 | 7 | 28 | 20 | 8 | 23 |
+| 16 | Chester | 15 | 7 | 2 | 6 | 19 | 14 | 5 | 23 |
+| 17 | Blyth Spartans | 18 | 6 | 5 | 7 | 26 | 24 | 2 | 23 |
+| 18 | Scarborough Athletic | 16 | 7 | 2 | 7 | 19 | 21 | -2 | 23 |
+| 19 | Kings Lynn Town | 19 | 5 | 7 | 7 | 23 | 31 | -8 | 22 |
+| 20 | Peterborough Sports | 19 | 6 | 4 | 9 | 19 | 27 | -8 | 22 |
+| 21 | Rushall | 18 | 5 | 4 | 9 | 24 | 28 | -4 | 19 |
+| 22 | Darlington | 18 | 3 | 5 | 10 | 15 | 41 | -26 | 14 |
+| 23 | Bishop's Stortford | 19 | 4 | 1 | 14 | 17 | 38 | -21 | 13 |
+| 24 | Gloucester | 18 | 2 | 5 | 11 | 13 | 27 | -14 | 11 |
 
 ## Accreditation 
 
