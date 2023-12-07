@@ -1,14 +1,14 @@
 # National League South Table (2023-2024)
-## Updated: 05-Dec-2023
+## Updated: 06-Dec-2023
 
 | Pos | Team | P | W | D | L | F | A | GD | Pts |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | Yeovil | 19 | 13 | 3 | 3 | 39 | 24 | 15 | 42 |
+| 1 | Yeovil | 20 | 14 | 3 | 3 | 40 | 24 | 16 | 45 |
 | 2 | Maidstone United | 21 | 11 | 6 | 4 | 32 | 23 | 9 | 39 |
 | 3 | Hampton and Richmond | 21 | 11 | 5 | 5 | 34 | 27 | 7 | 38 |
 | 4 | Torquay | 21 | 12 | 1 | 8 | 38 | 31 | 7 | 37 |
 | 5 | Aveley | 22 | 10 | 5 | 7 | 34 | 27 | 7 | 35 |
-| 6 | Bath City | 20 | 9 | 6 | 5 | 39 | 27 | 12 | 33 |
+| 6 | Bath City | 21 | 9 | 6 | 6 | 39 | 28 | 11 | 33 |
 | 7 | Worthing | 20 | 10 | 3 | 7 | 35 | 30 | 5 | 33 |
 | 8 | Chelmsford | 21 | 8 | 8 | 5 | 29 | 23 | 6 | 32 |
 | 9 | Braintree Town | 21 | 8 | 7 | 6 | 34 | 23 | 11 | 31 |
