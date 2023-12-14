@@ -1,5 +1,5 @@
 # National League South Table (2023-2024)
-## Updated: 09-Dec-2023
+## Updated: 13-Dec-2023
 
 | Pos | Team | P | W | D | L | F | A | GD | Pts |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -16,9 +16,9 @@
 | 11 | Weston-S-Mare | 20 | 9 | 3 | 8 | 30 | 31 | -1 | 30 |
 | 12 | Dartford | 21 | 8 | 5 | 8 | 35 | 29 | 6 | 29 |
 | 13 | Farnborough | 22 | 7 | 8 | 7 | 37 | 38 | -1 | 29 |
-| 14 | Taunton Town | 18 | 7 | 7 | 4 | 25 | 21 | 4 | 28 |
-| 15 | Chippenham | 21 | 7 | 7 | 7 | 31 | 31 | 0 | 28 |
-| 16 | Hemel | 20 | 7 | 7 | 6 | 23 | 24 | -1 | 28 |
+| 14 | Hemel | 21 | 7 | 8 | 6 | 25 | 26 | -1 | 29 |
+| 15 | Taunton Town | 18 | 7 | 7 | 4 | 25 | 21 | 4 | 28 |
+| 16 | Chippenham | 21 | 7 | 7 | 7 | 31 | 31 | 0 | 28 |
 | 17 | St Albans | 21 | 8 | 2 | 11 | 30 | 36 | -6 | 26 |
 | 18 | Weymouth | 21 | 5 | 8 | 8 | 23 | 31 | -8 | 23 |
 | 19 | Slough Town | 18 | 6 | 4 | 8 | 33 | 31 | 2 | 22 |
@@ -26,7 +26,7 @@
 | 21 | Welling | 21 | 4 | 8 | 9 | 28 | 40 | -12 | 20 |
 | 22 | Eastbourne Boro | 22 | 5 | 5 | 12 | 27 | 41 | -14 | 20 |
 | 23 | Dover | 21 | 1 | 9 | 11 | 22 | 40 | -18 | 12 |
-| 24 | Havant and Waterlooville | 21 | 2 | 3 | 16 | 23 | 51 | -28 | 9 |
+| 24 | Havant and Waterlooville | 22 | 2 | 4 | 16 | 25 | 53 | -28 | 10 |
 
 ## Accreditation 
 
