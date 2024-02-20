@@ -1,17 +1,17 @@
 # National League South Table (2023-2024)
-## Updated: 17-Feb-2024
+## Updated: 19-Feb-2024
 
 | Pos | Team | P | W | D | L | F | A | GD | Pts |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1 | Yeovil | 32 | 22 | 6 | 4 | 62 | 33 | 29 | 72 |
 | 2 | Worthing | 33 | 19 | 5 | 9 | 76 | 49 | 27 | 62 |
 | 3 | Chelmsford | 32 | 16 | 9 | 7 | 49 | 30 | 19 | 57 |
-| 4 | Maidstone United | 32 | 15 | 9 | 8 | 47 | 40 | 7 | 54 |
+| 4 | Maidstone United | 33 | 15 | 9 | 9 | 47 | 42 | 5 | 54 |
 | 5 | Bath City | 31 | 15 | 8 | 8 | 52 | 34 | 18 | 53 |
 | 6 | St Albans | 33 | 16 | 4 | 13 | 59 | 48 | 11 | 52 |
-| 7 | Braintree Town | 31 | 14 | 8 | 9 | 46 | 33 | 13 | 50 |
-| 8 | Hampton and Richmond | 31 | 14 | 8 | 9 | 45 | 40 | 5 | 50 |
-| 9 | Aveley | 32 | 14 | 7 | 11 | 47 | 42 | 5 | 49 |
+| 7 | Aveley | 33 | 15 | 7 | 11 | 49 | 42 | 7 | 52 |
+| 8 | Braintree Town | 31 | 14 | 8 | 9 | 46 | 33 | 13 | 50 |
+| 9 | Hampton and Richmond | 31 | 14 | 8 | 9 | 45 | 40 | 5 | 50 |
 | 10 | Slough Town | 33 | 13 | 8 | 12 | 60 | 53 | 7 | 47 |
 | 11 | Tonbridge Angels | 34 | 12 | 9 | 13 | 49 | 49 | 0 | 45 |
 | 12 | Torquay | 32 | 14 | 3 | 15 | 52 | 55 | -3 | 45 |
