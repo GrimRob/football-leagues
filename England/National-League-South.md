@@ -1,5 +1,5 @@
 # National League South Table (2023-2024)
-## Updated: 12-Mar-2024
+## Updated: 13-Mar-2024
 
 | Pos | Team | P | W | D | L | F | A | GD | Pts |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -12,7 +12,7 @@
 | 7 | Bath City | 37 | 17 | 10 | 10 | 60 | 42 | 18 | 61 |
 | 8 | Maidstone United | 37 | 17 | 10 | 10 | 53 | 46 | 7 | 61 |
 | 9 | Aveley | 39 | 17 | 9 | 13 | 55 | 50 | 5 | 60 |
-| 10 | Slough Town | 36 | 15 | 9 | 12 | 66 | 57 | 9 | 54 |
+| 10 | Slough Town | 37 | 15 | 9 | 13 | 67 | 59 | 8 | 54 |
 | 11 | Farnborough | 38 | 14 | 12 | 12 | 60 | 60 | 0 | 54 |
 | 12 | Torquay | 37 | 15 | 6 | 16 | 59 | 62 | -3 | 51 |
 | 13 | Tonbridge Angels | 39 | 13 | 10 | 16 | 55 | 56 | -1 | 49 |
@@ -25,7 +25,7 @@
 | 20 | Truro City | 32 | 11 | 5 | 16 | 45 | 52 | -7 | 38 |
 | 21 | Dartford | 37 | 10 | 8 | 19 | 48 | 59 | -11 | 38 |
 | 22 | Eastbourne Boro | 37 | 9 | 7 | 21 | 39 | 65 | -26 | 34 |
-| 23 | Havant and Waterlooville | 37 | 8 | 5 | 24 | 44 | 72 | -28 | 29 |
+| 23 | Havant and Waterlooville | 38 | 9 | 5 | 24 | 46 | 73 | -27 | 32 |
 | 24 | Dover | 38 | 3 | 13 | 22 | 36 | 67 | -31 | 22 |
 
 ## Accreditation 
