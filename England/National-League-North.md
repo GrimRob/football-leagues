@@ -1,5 +1,5 @@
 # National League North Table (2023-2024)
-## Updated: 16-Mar-2024
+## Updated: 19-Mar-2024
 
 | Pos | Team | P | W | D | L | F | A | GD | Pts |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -16,17 +16,17 @@
 | 11 | Warrington | 39 | 16 | 10 | 13 | 56 | 49 | 7 | 58 |
 | 12 | Spennymoor Town | 38 | 17 | 7 | 14 | 57 | 54 | 3 | 58 |
 | 13 | Scarborough Athletic | 40 | 16 | 7 | 17 | 44 | 48 | -4 | 55 |
-| 14 | Buxton | 39 | 15 | 9 | 15 | 58 | 49 | 9 | 54 |
-| 15 | Peterborough Sports | 38 | 13 | 9 | 16 | 47 | 54 | -7 | 48 |
-| 16 | Southport | 39 | 14 | 6 | 19 | 45 | 66 | -21 | 48 |
-| 17 | Blyth Spartans | 39 | 12 | 10 | 17 | 56 | 61 | -5 | 46 |
-| 18 | Kings Lynn Town | 38 | 11 | 13 | 14 | 46 | 56 | -10 | 46 |
+| 14 | Buxton | 40 | 15 | 9 | 16 | 60 | 52 | 8 | 54 |
+| 15 | Blyth Spartans | 40 | 13 | 10 | 17 | 59 | 63 | -4 | 49 |
+| 16 | Kings Lynn Town | 39 | 12 | 13 | 14 | 48 | 56 | -8 | 49 |
+| 17 | Peterborough Sports | 38 | 13 | 9 | 16 | 47 | 54 | -7 | 48 |
+| 18 | Southport | 39 | 14 | 6 | 19 | 45 | 66 | -21 | 48 |
 | 19 | Farsley Celtic | 39 | 11 | 13 | 15 | 34 | 48 | -14 | 46 |
 | 20 | Darlington | 40 | 13 | 7 | 20 | 42 | 64 | -22 | 46 |
 | 21 | Rushall | 39 | 11 | 8 | 20 | 51 | 66 | -15 | 41 |
 | 22 | Banbury Utd | 37 | 10 | 7 | 20 | 32 | 61 | -29 | 37 |
 | 23 | Gloucester | 39 | 9 | 8 | 22 | 45 | 69 | -24 | 35 |
-| 24 | Bishop's Stortford | 37 | 5 | 2 | 30 | 31 | 87 | -56 | 17 |
+| 24 | Bishop's Stortford | 38 | 5 | 2 | 31 | 31 | 89 | -58 | 17 |
 
 ## Accreditation 
 
