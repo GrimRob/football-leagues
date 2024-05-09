@@ -1,5 +1,5 @@
 # League Two Table (2023-2024)
-## Updated: 27-Apr-2024
+## Updated: 07-May-2024
 
 | Pos | Team | P | W | D | L | F | A | GD | Pts |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
