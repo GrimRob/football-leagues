@@ -1,5 +1,5 @@
-# National League Table (2023-2024)
-## Updated: 05-May-2024
+# National League Table (2024-2025)
+## Updated: 10-Aug-2024
 
 | Pos | Team | P | W | D | L | F | A | GD | Pts |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |

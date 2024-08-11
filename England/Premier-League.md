@@ -1,4 +1,4 @@
-# Premier League Table (2023-2024)
+# Premier League Table (2024-2025)
 ## Updated: 19-May-2024
 
 | Pos | Team | P | W | D | L | F | A | GD | Pts |

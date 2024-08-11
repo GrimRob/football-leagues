@@ -1,5 +1,5 @@
-# Championship Table (2023-2024)
-## Updated: 17-May-2024
+# Championship Table (2024-2025)
+## Updated: 10-Aug-2024
 
 | Pos | Team | P | W | D | L | F | A | GD | Pts |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
