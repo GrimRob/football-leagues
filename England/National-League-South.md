@@ -16,11 +16,11 @@
 | 11 | Torquay | 2 | 1 | 0 | 1 | 2 | 2 | 0 | 3 |
 | 12 | Maidstone United | 2 | 1 | 0 | 1 | 2 | 2 | 0 | 3 |
 | 13 | Slough Town | 2 | 1 | 0 | 1 | 2 | 2 | 0 | 3 |
+| 14 | Enfield FC | 2 | 1 | 0 | 1 | 2 | 2 | 0 | 3 |
 | 15 | Bath City | 2 | 1 | 0 | 1 | 1 | 1 | 0 | 3 |
 | 16 | Welling | 2 | 1 | 0 | 1 | 1 | 1 | 0 | 3 |
 | 17 | Aveley | 2 | 0 | 1 | 1 | 2 | 3 | -1 | 1 |
 | 18 | Chelmsford | 2 | 0 | 1 | 1 | 2 | 3 | -1 | 1 |
-| 19 | Enfield Town | 1 | 0 | 0 | 1 | 1 | 2 | -1 | 0 |
 | 19 | Chesham Utd | 2 | 0 | 1 | 1 | 2 | 3 | -1 | 1 |
 | 20 | St Albans | 2 | 0 | 1 | 1 | 2 | 3 | -1 | 1 |
 | 21 | Hampton and Richmond | 2 | 0 | 1 | 1 | 2 | 4 | -2 | 1 |

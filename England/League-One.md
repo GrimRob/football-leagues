@@ -1,5 +1,5 @@
 # League One Table (2024-2025)
-## Updated: 17-Aug-2024
+## Updated: 18-Aug-2024
 
 | Pos | Team | P | W | D | L | F | A | GD | Pts |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -10,10 +10,10 @@
 | 5 | Reading | 2 | 1 | 1 | 0 | 3 | 1 | 2 | 4 |
 | 6 | Mansfield | 2 | 1 | 1 | 0 | 5 | 4 | 1 | 4 |
 | 7 | Birmingham | 2 | 1 | 1 | 0 | 4 | 3 | 1 | 4 |
-| 8 | Bristol Rovers | 2 | 1 | 1 | 0 | 1 | 0 | 1 | 4 |
-| 9 | Peterborough | 2 | 1 | 0 | 1 | 4 | 3 | 1 | 3 |
-| 10 | Wrexham | 1 | 1 | 0 | 0 | 3 | 2 | 1 | 3 |
-| 11 | Bolton | 1 | 1 | 0 | 0 | 2 | 1 | 1 | 3 |
+| 8 | Wrexham | 2 | 1 | 1 | 0 | 3 | 2 | 1 | 4 |
+| 9 | Bolton | 2 | 1 | 1 | 0 | 2 | 1 | 1 | 4 |
+| 10 | Bristol Rovers | 2 | 1 | 1 | 0 | 1 | 0 | 1 | 4 |
+| 11 | Peterborough | 2 | 1 | 0 | 1 | 4 | 3 | 1 | 3 |
 | 12 | Lincoln City | 2 | 1 | 0 | 1 | 4 | 4 | 0 | 3 |
 | 13 | Barnsley | 2 | 1 | 0 | 1 | 3 | 3 | 0 | 3 |
 | 14 | Northampton | 2 | 1 | 0 | 1 | 2 | 2 | 0 | 3 |
