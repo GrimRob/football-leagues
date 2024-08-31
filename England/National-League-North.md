@@ -1,10 +1,10 @@
 # National League North Table (2024-2025)
-## Updated: 26-Aug-2024
+## Updated: 30-Aug-2024
 
 | Pos | Team | P | W | D | L | F | A | GD | Pts |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | Scunthorpe | 5 | 4 | 1 | 0 | 10 | 1 | 9 | 13 |
-| 2 | Kidderminster | 5 | 4 | 0 | 1 | 11 | 3 | 8 | 12 |
+| 1 | Scunthorpe | 6 | 5 | 1 | 0 | 12 | 1 | 11 | 16 |
+| 2 | Kidderminster | 6 | 4 | 0 | 2 | 11 | 5 | 6 | 12 |
 | 3 | Scarborough Athletic | 5 | 3 | 1 | 1 | 12 | 8 | 4 | 10 |
 | 4 | Curzon Ashton | 5 | 3 | 1 | 1 | 6 | 5 | 1 | 10 |
 | 5 | Hereford | 5 | 2 | 3 | 0 | 12 | 6 | 6 | 9 |
