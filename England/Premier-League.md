@@ -1,28 +1,28 @@
 # Premier League Table (2024-2025)
-## Updated: 25-Aug-2024
+## Updated: 31-Aug-2024
 
 | Pos | Team | P | W | D | L | F | A | GD | Pts |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | Man City | 2 | 2 | 0 | 0 | 6 | 1 | 5 | 6 |
-| 2 | Brighton | 2 | 2 | 0 | 0 | 5 | 1 | 4 | 6 |
-| 3 | Arsenal | 2 | 2 | 0 | 0 | 4 | 0 | 4 | 6 |
+| 1 | Man City | 3 | 3 | 0 | 0 | 9 | 2 | 7 | 9 |
+| 2 | Brighton | 3 | 2 | 1 | 0 | 6 | 2 | 4 | 7 |
+| 3 | Arsenal | 3 | 2 | 1 | 0 | 5 | 1 | 4 | 7 |
 | 4 | Liverpool | 2 | 2 | 0 | 0 | 4 | 0 | 4 | 6 |
-| 5 | Tottenham | 2 | 1 | 1 | 0 | 5 | 1 | 4 | 4 |
-| 6 | Newcastle | 2 | 1 | 1 | 0 | 2 | 1 | 1 | 4 |
-| 7 | Nottingham Forest | 2 | 1 | 1 | 0 | 2 | 1 | 1 | 4 |
-| 8 | Chelsea | 2 | 1 | 0 | 1 | 6 | 4 | 2 | 3 |
-| 9 | West Ham | 2 | 1 | 0 | 1 | 3 | 2 | 1 | 3 |
-| 10 | Fulham | 2 | 1 | 0 | 1 | 2 | 2 | 0 | 3 |
-| 11 | Man Utd | 2 | 1 | 0 | 1 | 2 | 2 | 0 | 3 |
-| 13 | Aston Villa | 2 | 1 | 0 | 1 | 2 | 3 | -1 | 3 |
-| 13 | Brentford | 2 | 1 | 0 | 1 | 2 | 3 | -1 | 3 |
-| 14 | Bournemouth | 2 | 0 | 2 | 0 | 2 | 2 | 0 | 2 |
-| 15 | Leicester | 2 | 0 | 1 | 1 | 2 | 3 | -1 | 1 |
-| 16 | Southampton | 2 | 0 | 0 | 2 | 0 | 2 | -2 | 0 |
-| 17 | Crystal Palace | 2 | 0 | 0 | 2 | 1 | 4 | -3 | 0 |
-| 18 | Ipswich | 2 | 0 | 0 | 2 | 1 | 6 | -5 | 0 |
-| 19 | Wolverhampton | 2 | 0 | 0 | 2 | 2 | 8 | -6 | 0 |
-| 20 | Everton | 2 | 0 | 0 | 2 | 0 | 7 | -7 | 0 |
+| 5 | Brentford | 3 | 2 | 0 | 1 | 5 | 4 | 1 | 6 |
+| 6 | Aston Villa | 3 | 2 | 0 | 1 | 4 | 4 | 0 | 6 |
+| 7 | Bournemouth | 3 | 1 | 2 | 0 | 5 | 4 | 1 | 5 |
+| 8 | Nottingham Forest | 3 | 1 | 2 | 0 | 3 | 2 | 1 | 5 |
+| 9 | Tottenham | 2 | 1 | 1 | 0 | 5 | 1 | 4 | 4 |
+| 10 | Newcastle | 2 | 1 | 1 | 0 | 2 | 1 | 1 | 4 |
+| 11 | Fulham | 3 | 1 | 1 | 1 | 3 | 3 | 0 | 4 |
+| 12 | Chelsea | 2 | 1 | 0 | 1 | 6 | 4 | 2 | 3 |
+| 13 | Man Utd | 2 | 1 | 0 | 1 | 2 | 2 | 0 | 3 |
+| 14 | West Ham | 3 | 1 | 0 | 2 | 4 | 5 | -1 | 3 |
+| 15 | Leicester | 3 | 0 | 1 | 2 | 3 | 5 | -2 | 1 |
+| 16 | Ipswich | 3 | 0 | 1 | 2 | 2 | 7 | -5 | 1 |
+| 17 | Wolverhampton | 3 | 0 | 1 | 2 | 3 | 9 | -6 | 1 |
+| 18 | Crystal Palace | 2 | 0 | 0 | 2 | 1 | 4 | -3 | 0 |
+| 19 | Southampton | 3 | 0 | 0 | 3 | 1 | 5 | -4 | 0 |
+| 20 | Everton | 3 | 0 | 0 | 3 | 2 | 10 | -8 | 0 |
 
 ## Accreditation 
 
