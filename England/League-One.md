@@ -1,14 +1,14 @@
 # League One Table (2024-2025)
-## Updated: 14-Sept-2024
+## Updated: 16-Sept-2024
 
 | Pos | Team | P | W | D | L | F | A | GD | Pts |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | Wrexham | 5 | 4 | 1 | 0 | 11 | 2 | 9 | 13 |
-| 2 | Charlton | 6 | 4 | 1 | 1 | 6 | 3 | 3 | 13 |
-| 3 | Huddersfield | 5 | 4 | 0 | 1 | 10 | 3 | 7 | 12 |
-| 4 | Stockport | 5 | 3 | 2 | 0 | 9 | 2 | 7 | 11 |
-| 5 | Lincoln City | 5 | 3 | 1 | 1 | 10 | 6 | 4 | 10 |
-| 6 | Birmingham | 4 | 3 | 1 | 0 | 8 | 5 | 3 | 10 |
+| 1 | Wrexham | 6 | 4 | 1 | 1 | 12 | 5 | 7 | 13 |
+| 2 | Birmingham | 5 | 4 | 1 | 0 | 11 | 6 | 5 | 13 |
+| 3 | Charlton | 6 | 4 | 1 | 1 | 6 | 3 | 3 | 13 |
+| 4 | Huddersfield | 5 | 4 | 0 | 1 | 10 | 3 | 7 | 12 |
+| 5 | Stockport | 5 | 3 | 2 | 0 | 9 | 2 | 7 | 11 |
+| 6 | Lincoln City | 5 | 3 | 1 | 1 | 10 | 6 | 4 | 10 |
 | 7 | Barnsley | 6 | 3 | 1 | 2 | 10 | 9 | 1 | 10 |
 | 8 | Mansfield | 5 | 2 | 2 | 1 | 9 | 10 | -1 | 8 |
 | 9 | Stevenage | 5 | 2 | 1 | 2 | 5 | 3 | 2 | 7 |
