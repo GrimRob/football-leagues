@@ -1,5 +1,5 @@
 # National League Table (2024-2025)
-## Updated: 14-Sept-2024
+## Updated: 17-Sept-2024
 
 | Pos | Team | P | W | D | L | F | A | GD | Pts |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -19,13 +19,13 @@
 | 14 | Aldershot | 9 | 3 | 3 | 3 | 16 | 15 | 1 | 12 |
 | 15 | Sutton Utd | 9 | 3 | 3 | 3 | 14 | 13 | 1 | 12 |
 | 16 | Altrincham | 9 | 3 | 2 | 4 | 9 | 11 | -2 | 11 |
-| 17 | Southend | 8 | 2 | 4 | 2 | 10 | 9 | 1 | 10 |
+| 17 | Southend | 9 | 2 | 4 | 3 | 11 | 11 | 0 | 10 |
 | 18 | Boston Utd | 9 | 2 | 2 | 5 | 9 | 16 | -7 | 8 |
-| 19 | Tamworth | 8 | 2 | 2 | 4 | 8 | 16 | -8 | 8 |
-| 20 | Braintree Town | 9 | 1 | 4 | 4 | 5 | 11 | -6 | 7 |
-| 21 | Wealdstone | 9 | 1 | 3 | 5 | 6 | 11 | -5 | 6 |
-| 22 | Maidenhead Utd | 9 | 1 | 2 | 6 | 10 | 17 | -7 | 5 |
-| 23 | AFC Fylde | 8 | 1 | 2 | 5 | 9 | 18 | -9 | 5 |
+| 19 | AFC Fylde | 9 | 2 | 2 | 5 | 11 | 19 | -8 | 8 |
+| 20 | Tamworth | 8 | 2 | 2 | 4 | 8 | 16 | -8 | 8 |
+| 21 | Braintree Town | 9 | 1 | 4 | 4 | 5 | 11 | -6 | 7 |
+| 22 | Wealdstone | 9 | 1 | 3 | 5 | 6 | 11 | -5 | 6 |
+| 23 | Maidenhead Utd | 9 | 1 | 2 | 6 | 10 | 17 | -7 | 5 |
 | 24 | Ebbsfleet | 9 | 1 | 2 | 6 | 5 | 18 | -13 | 5 |
 
 ## Accreditation 
