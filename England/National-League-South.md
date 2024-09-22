@@ -1,32 +1,32 @@
 # National League South Table (2024-2025)
-## Updated: 07-Sept-2024
+## Updated: 21-Sept-2024
 
 | Pos | Team | P | W | D | L | F | A | GD | Pts |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | Hemel | 8 | 6 | 2 | 0 | 16 | 7 | 9 | 20 |
-| 2 | Eastbourne Boro | 8 | 5 | 2 | 1 | 9 | 6 | 3 | 17 |
-| 3 | Tonbridge Angels | 8 | 4 | 4 | 0 | 11 | 5 | 6 | 16 |
-| 4 | Weston-S-Mare | 8 | 5 | 1 | 2 | 13 | 8 | 5 | 16 |
-| 5 | Torquay | 8 | 5 | 1 | 2 | 12 | 8 | 4 | 16 |
-| 6 | Slough Town | 8 | 5 | 0 | 3 | 14 | 7 | 7 | 15 |
-| 7 | Farnborough | 8 | 5 | 0 | 3 | 10 | 9 | 1 | 15 |
-| 8 | Truro City | 8 | 4 | 1 | 3 | 14 | 8 | 6 | 13 |
-| 9 | Chesham Utd | 8 | 4 | 1 | 3 | 15 | 13 | 2 | 13 |
-| 10 | Boreham Wood | 8 | 3 | 3 | 2 | 12 | 9 | 3 | 12 |
-| 11 | Worthing | 7 | 3 | 3 | 1 | 12 | 14 | -2 | 12 |
-| 12 | AFC Hornchurch | 8 | 3 | 2 | 3 | 8 | 7 | 1 | 11 |
-| 13 | Dorking Wanderers | 8 | 3 | 2 | 3 | 11 | 12 | -1 | 11 |
-| 14 | Welling | 7 | 3 | 1 | 3 | 10 | 9 | 1 | 10 |
-| 15 | Bath City | 8 | 3 | 1 | 4 | 6 | 10 | -4 | 10 |
-| 16 | Chelmsford | 8 | 2 | 3 | 3 | 13 | 10 | 3 | 9 |
-| 17 | Maidstone United | 8 | 2 | 3 | 3 | 8 | 10 | -2 | 9 |
-| 18 | Chippenham | 8 | 2 | 3 | 3 | 7 | 9 | -2 | 9 |
-| 19 | Hampton and Richmond | 8 | 2 | 3 | 3 | 7 | 9 | -2 | 9 |
-| 20 | Salisbury | 8 | 2 | 2 | 4 | 8 | 11 | -3 | 8 |
-| 21 | Aveley | 8 | 1 | 2 | 5 | 9 | 14 | -5 | 5 |
-| 22 | Weymouth | 8 | 1 | 0 | 7 | 4 | 14 | -10 | 3 |
-| 23 | Enfield Town | 8 | 1 | 0 | 7 | 7 | 20 | -13 | 3 |
-| 24 | St Albans | 8 | 0 | 2 | 6 | 4 | 11 | -7 | 2 |
+| 1 | Hemel | 9 | 6 | 3 | 0 | 19 | 10 | 9 | 21 |
+| 2 | Eastbourne Boro | 9 | 5 | 3 | 1 | 10 | 7 | 3 | 18 |
+| 3 | Tonbridge Angels | 9 | 4 | 5 | 0 | 13 | 7 | 6 | 17 |
+| 4 | Weston-S-Mare | 9 | 5 | 2 | 2 | 14 | 9 | 5 | 17 |
+| 5 | Torquay | 9 | 5 | 2 | 2 | 13 | 9 | 4 | 17 |
+| 6 | Truro City | 9 | 5 | 1 | 3 | 16 | 9 | 7 | 16 |
+| 7 | Slough Town | 9 | 5 | 1 | 3 | 15 | 8 | 7 | 16 |
+| 8 | Farnborough | 9 | 5 | 1 | 3 | 13 | 12 | 1 | 16 |
+| 9 | Boreham Wood | 9 | 4 | 3 | 2 | 18 | 9 | 9 | 15 |
+| 10 | Chesham Utd | 9 | 4 | 2 | 3 | 17 | 15 | 2 | 14 |
+| 11 | Worthing | 8 | 3 | 4 | 1 | 13 | 15 | -2 | 13 |
+| 12 | Chelmsford | 9 | 3 | 3 | 3 | 15 | 10 | 5 | 12 |
+| 13 | Dorking Wanderers | 9 | 3 | 3 | 3 | 12 | 13 | -1 | 12 |
+| 14 | AFC Hornchurch | 9 | 3 | 2 | 4 | 8 | 9 | -1 | 11 |
+| 15 | Salisbury | 9 | 3 | 2 | 4 | 11 | 13 | -2 | 11 |
+| 16 | Maidstone United | 9 | 2 | 4 | 3 | 10 | 12 | -2 | 10 |
+| 17 | Hampton and Richmond | 9 | 2 | 4 | 3 | 9 | 11 | -2 | 10 |
+| 18 | Welling | 8 | 3 | 1 | 4 | 10 | 15 | -5 | 10 |
+| 19 | Bath City | 9 | 3 | 1 | 5 | 6 | 11 | -5 | 10 |
+| 20 | Chippenham | 9 | 2 | 3 | 4 | 9 | 12 | -3 | 9 |
+| 21 | Enfield Town | 9 | 2 | 0 | 7 | 8 | 20 | -12 | 6 |
+| 22 | Aveley | 9 | 1 | 2 | 6 | 10 | 16 | -6 | 5 |
+| 23 | Weymouth | 9 | 1 | 1 | 7 | 5 | 15 | -10 | 4 |
+| 24 | St Albans | 9 | 0 | 3 | 6 | 5 | 12 | -7 | 3 |
 
 ## Accreditation 
 
