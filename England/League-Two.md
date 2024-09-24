@@ -1,5 +1,5 @@
 # League Two Table (2024-2025)
-## Updated: 21-Sept-2024
+## Updated: 23-Sept-2024
 
 | Pos | Team | P | W | D | L | F | A | GD | Pts |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -14,9 +14,9 @@
 | 9 | Port Vale | 7 | 3 | 2 | 2 | 11 | 10 | 1 | 11 |
 | 10 | Chesterfield | 7 | 2 | 3 | 2 | 10 | 6 | 4 | 9 |
 | 11 | Colchester | 7 | 2 | 3 | 2 | 12 | 10 | 2 | 9 |
-| 12 | Grimsby | 7 | 3 | 0 | 4 | 9 | 12 | -3 | 9 |
-| 13 | Newport County | 7 | 3 | 0 | 4 | 10 | 15 | -5 | 9 |
-| 14 | Fleetwood Town | 5 | 2 | 2 | 1 | 6 | 5 | 1 | 8 |
+| 12 | Fleetwood Town | 6 | 2 | 3 | 1 | 8 | 7 | 1 | 9 |
+| 13 | Grimsby | 7 | 3 | 0 | 4 | 9 | 12 | -3 | 9 |
+| 14 | Newport County | 7 | 3 | 0 | 4 | 10 | 15 | -5 | 9 |
 | 15 | Salford | 6 | 2 | 2 | 2 | 4 | 6 | -2 | 8 |
 | 16 | Tranmere | 6 | 2 | 2 | 2 | 3 | 7 | -4 | 8 |
 | 17 | Cheltenham | 7 | 2 | 1 | 4 | 9 | 11 | -2 | 7 |
@@ -26,7 +26,7 @@
 | 21 | Swindon | 7 | 1 | 3 | 3 | 7 | 10 | -3 | 6 |
 | 22 | Carlisle | 7 | 2 | 0 | 5 | 8 | 14 | -6 | 6 |
 | 23 | Accrington Stanley | 7 | 0 | 3 | 4 | 8 | 16 | -8 | 3 |
-| 24 | Morecambe | 6 | 0 | 1 | 5 | 3 | 8 | -5 | 1 |
+| 24 | Morecambe | 7 | 0 | 2 | 5 | 5 | 10 | -5 | 2 |
 
 ## Accreditation 
 
