@@ -1,5 +1,5 @@
 # National League North Table (2024-2025)
-## Updated: 12-Oct-2024
+## Updated: 18-Oct-2024
 
 | Pos | Team | P | W | D | L | F | A | GD | Pts |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -10,13 +10,13 @@
 | 5 | Chester | 10 | 5 | 3 | 2 | 14 | 10 | 4 | 18 |
 | 6 | Alfreton Town | 10 | 4 | 5 | 1 | 14 | 9 | 5 | 17 |
 | 7 | Kings Lynn Town | 10 | 5 | 2 | 3 | 11 | 11 | 0 | 17 |
-| 8 | Leamington | 10 | 4 | 4 | 2 | 15 | 10 | 5 | 16 |
-| 9 | Scarborough Athletic | 10 | 4 | 4 | 2 | 16 | 12 | 4 | 16 |
-| 10 | Southport | 11 | 4 | 3 | 4 | 16 | 20 | -4 | 15 |
-| 11 | Kidderminster | 10 | 4 | 2 | 4 | 14 | 10 | 4 | 14 |
-| 12 | Farsley Celtic | 10 | 4 | 2 | 4 | 13 | 11 | 2 | 14 |
+| 8 | Spennymoor Town | 11 | 4 | 4 | 3 | 18 | 12 | 6 | 16 |
+| 9 | Leamington | 10 | 4 | 4 | 2 | 15 | 10 | 5 | 16 |
+| 10 | Scarborough Athletic | 10 | 4 | 4 | 2 | 16 | 12 | 4 | 16 |
+| 11 | Southport | 11 | 4 | 3 | 4 | 16 | 20 | -4 | 15 |
+| 12 | Kidderminster | 10 | 4 | 2 | 4 | 14 | 10 | 4 | 14 |
 | 13 | Brackley | 10 | 4 | 2 | 4 | 11 | 10 | 1 | 14 |
-| 14 | Spennymoor Town | 10 | 3 | 4 | 3 | 15 | 12 | 3 | 13 |
+| 14 | Farsley Celtic | 11 | 4 | 2 | 5 | 13 | 14 | -1 | 14 |
 | 15 | Darlington | 10 | 3 | 4 | 3 | 9 | 8 | 1 | 13 |
 | 16 | Warrington | 11 | 3 | 4 | 4 | 13 | 15 | -2 | 13 |
 | 17 | South Shields | 11 | 4 | 1 | 6 | 13 | 20 | -7 | 13 |
