@@ -1,21 +1,21 @@
 # National League South Table (2024-2025)
-## Updated: 19-Oct-2024
+## Updated: 21-Oct-2024
 
 | Pos | Team | P | W | D | L | F | A | GD | Pts |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1 | Farnborough | 12 | 8 | 1 | 3 | 21 | 14 | 7 | 25 |
 | 2 | Truro City | 11 | 7 | 1 | 3 | 20 | 9 | 11 | 22 |
-| 3 | Eastbourne Boro | 12 | 6 | 4 | 2 | 14 | 12 | 2 | 22 |
-| 4 | Weston-S-Mare | 11 | 6 | 3 | 2 | 17 | 10 | 7 | 21 |
-| 5 | Torquay | 11 | 6 | 3 | 2 | 15 | 10 | 5 | 21 |
-| 6 | Hemel | 12 | 6 | 3 | 3 | 21 | 17 | 4 | 21 |
+| 3 | Hemel | 13 | 6 | 4 | 3 | 23 | 19 | 4 | 22 |
+| 4 | Eastbourne Boro | 12 | 6 | 4 | 2 | 14 | 12 | 2 | 22 |
+| 5 | Weston-S-Mare | 11 | 6 | 3 | 2 | 17 | 10 | 7 | 21 |
+| 6 | Torquay | 11 | 6 | 3 | 2 | 15 | 10 | 5 | 21 |
 | 7 | Slough Town | 11 | 6 | 2 | 3 | 19 | 10 | 9 | 20 |
 | 8 | Boreham Wood | 11 | 5 | 4 | 2 | 19 | 9 | 10 | 19 |
 | 9 | Dorking Wanderers | 12 | 5 | 4 | 3 | 21 | 19 | 2 | 19 |
 | 10 | Worthing | 11 | 5 | 4 | 2 | 17 | 19 | -2 | 19 |
 | 11 | Tonbridge Angels | 11 | 4 | 5 | 2 | 16 | 13 | 3 | 17 |
-| 12 | Salisbury | 12 | 4 | 4 | 4 | 20 | 21 | -1 | 16 |
-| 13 | Chelmsford | 11 | 4 | 3 | 4 | 20 | 14 | 6 | 15 |
+| 12 | Chelmsford | 12 | 4 | 4 | 4 | 22 | 16 | 6 | 16 |
+| 13 | Salisbury | 12 | 4 | 4 | 4 | 20 | 21 | -1 | 16 |
 | 14 | Chesham Utd | 11 | 4 | 3 | 4 | 18 | 17 | 1 | 15 |
 | 15 | Chippenham | 12 | 4 | 3 | 5 | 13 | 13 | 0 | 15 |
 | 16 | Maidstone United | 11 | 3 | 5 | 3 | 13 | 13 | 0 | 14 |
