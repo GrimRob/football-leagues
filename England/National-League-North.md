@@ -1,19 +1,19 @@
 # National League North Table (2024-2025)
-## Updated: 05-Nov-2024
+## Updated: 06-Nov-2024
 
 | Pos | Team | P | W | D | L | F | A | GD | Pts |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1 | Scunthorpe | 16 | 8 | 5 | 3 | 29 | 11 | 18 | 29 |
 | 2 | Chorley | 16 | 8 | 5 | 3 | 26 | 18 | 8 | 29 |
 | 3 | Kings Lynn Town | 16 | 8 | 3 | 5 | 19 | 17 | 2 | 27 |
-| 4 | Curzon Ashton | 13 | 8 | 2 | 3 | 19 | 10 | 9 | 26 |
+| 4 | Curzon Ashton | 14 | 8 | 2 | 4 | 19 | 11 | 8 | 26 |
 | 5 | Buxton | 16 | 8 | 1 | 7 | 26 | 17 | 9 | 25 |
-| 6 | Southport | 16 | 7 | 4 | 5 | 24 | 27 | -3 | 25 |
-| 7 | Hereford | 16 | 6 | 6 | 4 | 21 | 17 | 4 | 24 |
-| 8 | Leamington | 15 | 6 | 5 | 4 | 21 | 14 | 7 | 23 |
-| 9 | Spennymoor Town | 16 | 6 | 5 | 5 | 25 | 19 | 6 | 23 |
-| 10 | Alfreton Town | 14 | 6 | 5 | 3 | 19 | 14 | 5 | 23 |
-| 11 | Kidderminster | 14 | 6 | 4 | 4 | 20 | 12 | 8 | 22 |
+| 6 | Kidderminster | 15 | 7 | 4 | 4 | 21 | 12 | 9 | 25 |
+| 7 | Southport | 16 | 7 | 4 | 5 | 24 | 27 | -3 | 25 |
+| 8 | Hereford | 16 | 6 | 6 | 4 | 21 | 17 | 4 | 24 |
+| 9 | Leamington | 15 | 6 | 5 | 4 | 21 | 14 | 7 | 23 |
+| 10 | Spennymoor Town | 16 | 6 | 5 | 5 | 25 | 19 | 6 | 23 |
+| 11 | Alfreton Town | 14 | 6 | 5 | 3 | 19 | 14 | 5 | 23 |
 | 12 | Chester | 15 | 6 | 4 | 5 | 17 | 16 | 1 | 22 |
 | 13 | Brackley | 14 | 6 | 3 | 5 | 15 | 12 | 3 | 21 |
 | 14 | Darlington | 15 | 5 | 6 | 4 | 15 | 14 | 1 | 21 |
