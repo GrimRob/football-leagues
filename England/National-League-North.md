@@ -1,32 +1,32 @@
 # National League North Table (2024-2025)
-## Updated: 26-Nov-2024
+## Updated: 30-Nov-2024
 
 | Pos | Team | P | W | D | L | F | A | GD | Pts |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | Chorley | 19 | 10 | 5 | 4 | 30 | 21 | 9 | 35 |
-| 2 | Scunthorpe | 19 | 9 | 6 | 4 | 33 | 14 | 19 | 33 |
-| 3 | Curzon Ashton | 17 | 10 | 3 | 4 | 22 | 11 | 11 | 33 |
-| 4 | Kings Lynn Town | 19 | 10 | 3 | 6 | 25 | 19 | 6 | 33 |
-| 5 | Kidderminster | 18 | 9 | 4 | 5 | 26 | 16 | 10 | 31 |
-| 6 | Buxton | 19 | 10 | 1 | 8 | 31 | 22 | 9 | 31 |
-| 7 | Chester | 18 | 9 | 4 | 5 | 23 | 18 | 5 | 31 |
-| 8 | Brackley | 17 | 9 | 3 | 5 | 20 | 13 | 7 | 30 |
-| 9 | Alfreton Town | 17 | 8 | 5 | 4 | 24 | 19 | 5 | 29 |
-| 10 | South Shields | 19 | 9 | 1 | 9 | 28 | 30 | -2 | 28 |
-| 11 | Hereford | 17 | 7 | 6 | 4 | 25 | 17 | 8 | 27 |
-| 12 | Spennymoor Town | 19 | 6 | 8 | 5 | 28 | 22 | 6 | 26 |
-| 13 | Southport | 19 | 7 | 4 | 8 | 25 | 31 | -6 | 25 |
-| 14 | Leamington | 18 | 6 | 5 | 7 | 22 | 19 | 3 | 23 |
-| 15 | Darlington | 18 | 5 | 8 | 5 | 18 | 18 | 0 | 23 |
-| 16 | Peterborough Sports | 19 | 6 | 5 | 8 | 20 | 25 | -5 | 23 |
-| 17 | Scarborough Athletic | 16 | 5 | 6 | 5 | 19 | 19 | 0 | 21 |
-| 18 | Warrington | 19 | 4 | 8 | 7 | 18 | 24 | -6 | 20 |
-| 19 | Farsley Celtic | 19 | 6 | 2 | 11 | 19 | 32 | -13 | 20 |
-| 20 | Radcliffe Borough | 18 | 4 | 6 | 8 | 22 | 31 | -9 | 18 |
-| 21 | Oxford City | 19 | 4 | 6 | 9 | 26 | 36 | -10 | 18 |
-| 22 | Marine | 18 | 4 | 5 | 9 | 11 | 23 | -12 | 17 |
-| 23 | Needham Market | 19 | 4 | 3 | 12 | 13 | 33 | -20 | 15 |
-| 24 | Rushall | 18 | 3 | 3 | 12 | 17 | 32 | -15 | 12 |
+| 1 | Curzon Ashton | 18 | 11 | 3 | 4 | 25 | 11 | 14 | 36 |
+| 2 | Chorley | 20 | 10 | 5 | 5 | 30 | 24 | 6 | 35 |
+| 3 | Scunthorpe | 20 | 9 | 7 | 4 | 33 | 14 | 19 | 34 |
+| 4 | Kidderminster | 19 | 10 | 4 | 5 | 27 | 16 | 11 | 34 |
+| 5 | Kings Lynn Town | 19 | 10 | 3 | 6 | 25 | 19 | 6 | 33 |
+| 6 | Buxton | 20 | 10 | 2 | 8 | 32 | 23 | 9 | 32 |
+| 7 | Chester | 19 | 9 | 5 | 5 | 24 | 19 | 5 | 32 |
+| 8 | Hereford | 18 | 8 | 6 | 4 | 28 | 17 | 11 | 30 |
+| 9 | Brackley | 17 | 9 | 3 | 5 | 20 | 13 | 7 | 30 |
+| 10 | Alfreton Town | 18 | 8 | 6 | 4 | 24 | 19 | 5 | 30 |
+| 11 | South Shields | 20 | 9 | 2 | 9 | 30 | 32 | -2 | 29 |
+| 12 | Spennymoor Town | 20 | 6 | 9 | 5 | 29 | 23 | 6 | 27 |
+| 13 | Darlington | 19 | 6 | 8 | 5 | 22 | 19 | 3 | 26 |
+| 14 | Southport | 20 | 7 | 5 | 8 | 25 | 31 | -6 | 26 |
+| 15 | Peterborough Sports | 20 | 6 | 6 | 8 | 22 | 27 | -5 | 24 |
+| 16 | Leamington | 19 | 6 | 5 | 8 | 22 | 20 | 2 | 23 |
+| 17 | Scarborough Athletic | 17 | 5 | 7 | 5 | 20 | 20 | 0 | 22 |
+| 18 | Warrington | 20 | 4 | 9 | 7 | 19 | 25 | -6 | 21 |
+| 19 | Oxford City | 20 | 5 | 6 | 9 | 30 | 37 | -7 | 21 |
+| 20 | Farsley Celtic | 20 | 6 | 2 | 12 | 20 | 36 | -16 | 20 |
+| 21 | Radcliffe Borough | 19 | 4 | 6 | 9 | 23 | 35 | -12 | 18 |
+| 22 | Marine | 19 | 4 | 6 | 9 | 11 | 23 | -12 | 18 |
+| 23 | Needham Market | 20 | 4 | 4 | 12 | 14 | 34 | -20 | 16 |
+| 24 | Rushall | 19 | 3 | 3 | 13 | 17 | 35 | -18 | 12 |
 
 ## Accreditation 
 
