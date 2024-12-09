@@ -1,13 +1,13 @@
 # National League North Table (2024-2025)
-## Updated: 30-Nov-2024
+## Updated: 07-Dec-2024
 
 | Pos | Team | P | W | D | L | F | A | GD | Pts |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1 | Curzon Ashton | 18 | 11 | 3 | 4 | 25 | 11 | 14 | 36 |
-| 2 | Chorley | 20 | 10 | 5 | 5 | 30 | 24 | 6 | 35 |
-| 3 | Scunthorpe | 20 | 9 | 7 | 4 | 33 | 14 | 19 | 34 |
-| 4 | Kidderminster | 19 | 10 | 4 | 5 | 27 | 16 | 11 | 34 |
-| 5 | Kings Lynn Town | 19 | 10 | 3 | 6 | 25 | 19 | 6 | 33 |
+| 2 | Kings Lynn Town | 20 | 11 | 3 | 6 | 26 | 19 | 7 | 36 |
+| 3 | Chorley | 20 | 10 | 5 | 5 | 30 | 24 | 6 | 35 |
+| 4 | Scunthorpe | 20 | 9 | 7 | 4 | 33 | 14 | 19 | 34 |
+| 5 | Kidderminster | 19 | 10 | 4 | 5 | 27 | 16 | 11 | 34 |
 | 6 | Buxton | 20 | 10 | 2 | 8 | 32 | 23 | 9 | 32 |
 | 7 | Chester | 19 | 9 | 5 | 5 | 24 | 19 | 5 | 32 |
 | 8 | Hereford | 18 | 8 | 6 | 4 | 28 | 17 | 11 | 30 |
@@ -19,7 +19,7 @@
 | 14 | Southport | 20 | 7 | 5 | 8 | 25 | 31 | -6 | 26 |
 | 15 | Peterborough Sports | 20 | 6 | 6 | 8 | 22 | 27 | -5 | 24 |
 | 16 | Leamington | 19 | 6 | 5 | 8 | 22 | 20 | 2 | 23 |
-| 17 | Scarborough Athletic | 17 | 5 | 7 | 5 | 20 | 20 | 0 | 22 |
+| 17 | Scarborough Athletic | 18 | 5 | 7 | 6 | 20 | 21 | -1 | 22 |
 | 18 | Warrington | 20 | 4 | 9 | 7 | 19 | 25 | -6 | 21 |
 | 19 | Oxford City | 20 | 5 | 6 | 9 | 30 | 37 | -7 | 21 |
 | 20 | Farsley Celtic | 20 | 6 | 2 | 12 | 20 | 36 | -16 | 20 |
