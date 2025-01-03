@@ -12,11 +12,11 @@
 | 7 | Dorking Wanderers | 24 | 11 | 7 | 6 | 50 | 33 | 17 | 40 |
 | 8 | Weston-S-Mare | 24 | 11 | 7 | 6 | 36 | 28 | 8 | 40 |
 | 9 | Farnborough | 24 | 11 | 4 | 9 | 35 | 35 | 0 | 37 |
-| 10 | Tonbridge Angels | 23 | 9 | 9 | 5 | 30 | 26 | 4 | 36 |
+| 10 | Tonbridge Angels | 22 | 9 | 8 | 5 | 29 | 25 | 4 | 35 |
 | 11 | Slough Town | 24 | 9 | 7 | 8 | 42 | 35 | 7 | 34 |
-| 12 | AFC Hornchurch | 24 | 8 | 9 | 7 | 26 | 25 | 1 | 33 |
-| 13 | Hampton and Richmond | 23 | 8 | 8 | 7 | 31 | 24 | 7 | 32 |
-| 14 | Chelmsford | 23 | 8 | 8 | 7 | 37 | 32 | 5 | 32 |
+| 12 | Hampton and Richmond | 23 | 8 | 8 | 7 | 31 | 24 | 7 | 32 |
+| 13 | Chelmsford | 23 | 8 | 8 | 7 | 37 | 32 | 5 | 32 |
+| 14 | AFC Hornchurch | 23 | 8 | 8 | 7 | 25 | 24 | 1 | 32 |
 | 15 | Chesham Utd | 23 | 9 | 5 | 9 | 32 | 36 | -4 | 32 |
 | 16 | Chippenham | 24 | 9 | 4 | 11 | 31 | 32 | -1 | 31 |
 | 17 | Bath City | 24 | 8 | 4 | 12 | 22 | 29 | -7 | 28 |
