@@ -1,12 +1,12 @@
 # National League North Table (2024-2025)
-## Updated: 01-Jan-2025
+## Updated: 04-Jan-2025
 
 | Pos | Team | P | W | D | L | F | A | GD | Pts |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1 | Curzon Ashton | 23 | 14 | 3 | 6 | 32 | 18 | 14 | 45 |
-| 2 | Scunthorpe | 24 | 12 | 8 | 4 | 39 | 15 | 24 | 44 |
-| 3 | Kidderminster | 23 | 13 | 4 | 6 | 36 | 17 | 19 | 43 |
-| 4 | Kings Lynn Town | 25 | 12 | 6 | 7 | 30 | 25 | 5 | 42 |
+| 2 | Kings Lynn Town | 26 | 13 | 6 | 7 | 32 | 26 | 6 | 45 |
+| 3 | Scunthorpe | 24 | 12 | 8 | 4 | 39 | 15 | 24 | 44 |
+| 4 | Kidderminster | 23 | 13 | 4 | 6 | 36 | 17 | 19 | 43 |
 | 5 | Brackley | 23 | 12 | 4 | 7 | 28 | 19 | 9 | 40 |
 | 6 | Darlington | 24 | 10 | 9 | 5 | 31 | 24 | 7 | 39 |
 | 7 | Buxton | 23 | 12 | 2 | 9 | 37 | 27 | 10 | 38 |
@@ -21,12 +21,12 @@
 | 16 | Scarborough Athletic | 24 | 7 | 9 | 8 | 29 | 30 | -1 | 30 |
 | 17 | Leamington | 23 | 8 | 5 | 10 | 30 | 26 | 4 | 29 |
 | 18 | Oxford City | 24 | 7 | 7 | 10 | 36 | 41 | -5 | 28 |
-| 19 | Warrington | 25 | 5 | 9 | 11 | 21 | 33 | -12 | 24 |
-| 20 | Farsley Celtic | 24 | 7 | 3 | 14 | 25 | 43 | -18 | 24 |
+| 19 | Warrington | 26 | 5 | 9 | 12 | 22 | 35 | -13 | 24 |
+| 20 | Farsley Celtic | 25 | 7 | 3 | 15 | 26 | 46 | -20 | 24 |
 | 21 | Radcliffe Borough | 22 | 5 | 6 | 11 | 27 | 41 | -14 | 21 |
 | 22 | Marine | 24 | 5 | 6 | 13 | 16 | 31 | -15 | 21 |
 | 23 | Needham Market | 24 | 4 | 6 | 14 | 17 | 39 | -22 | 18 |
-| 24 | Rushall | 24 | 4 | 3 | 17 | 21 | 48 | -27 | 15 |
+| 24 | Rushall | 25 | 5 | 3 | 17 | 24 | 49 | -25 | 18 |
 
 ## Accreditation 
 
