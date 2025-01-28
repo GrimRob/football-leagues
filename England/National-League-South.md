@@ -1,13 +1,13 @@
 # National League South Table (2024-2025)
-## Updated: 25-Jan-2025
+## Updated: 27-Jan-2025
 
 | Pos | Team | P | W | D | L | F | A | GD | Pts |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1 | Boreham Wood | 27 | 15 | 7 | 5 | 49 | 24 | 25 | 52 |
-| 2 | Torquay | 28 | 14 | 10 | 4 | 42 | 26 | 16 | 52 |
-| 3 | Worthing | 27 | 15 | 7 | 5 | 42 | 34 | 8 | 52 |
-| 4 | Eastbourne Boro | 29 | 14 | 10 | 5 | 35 | 27 | 8 | 52 |
-| 5 | Maidstone United | 28 | 14 | 9 | 5 | 45 | 25 | 20 | 51 |
+| 2 | Maidstone United | 29 | 14 | 10 | 5 | 45 | 25 | 20 | 52 |
+| 3 | Torquay | 28 | 14 | 10 | 4 | 42 | 26 | 16 | 52 |
+| 4 | Worthing | 27 | 15 | 7 | 5 | 42 | 34 | 8 | 52 |
+| 5 | Eastbourne Boro | 29 | 14 | 10 | 5 | 35 | 27 | 8 | 52 |
 | 6 | Dorking Wanderers | 28 | 14 | 7 | 7 | 56 | 38 | 18 | 49 |
 | 7 | Truro City | 28 | 14 | 7 | 7 | 40 | 27 | 13 | 49 |
 | 8 | Weston-S-Mare | 28 | 12 | 8 | 8 | 40 | 35 | 5 | 44 |
@@ -15,7 +15,7 @@
 | 10 | Hampton and Richmond | 27 | 11 | 8 | 8 | 38 | 29 | 9 | 41 |
 | 11 | Chesham Utd | 27 | 10 | 8 | 9 | 38 | 40 | -2 | 38 |
 | 12 | Farnborough | 27 | 11 | 5 | 11 | 36 | 38 | -2 | 38 |
-| 13 | Chelmsford | 27 | 9 | 9 | 9 | 43 | 39 | 4 | 36 |
+| 13 | Chelmsford | 28 | 9 | 10 | 9 | 43 | 39 | 4 | 37 |
 | 14 | Slough Town | 28 | 9 | 9 | 10 | 46 | 44 | 2 | 36 |
 | 15 | Chippenham | 28 | 10 | 5 | 13 | 38 | 38 | 0 | 35 |
 | 16 | Hemel | 27 | 10 | 4 | 13 | 37 | 48 | -11 | 34 |
