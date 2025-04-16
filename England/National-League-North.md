@@ -1,5 +1,5 @@
 # National League North Table (2024-2025)
-## Updated: 12-Apr-2025
+## Updated: 15-Apr-2025
 
 | Pos | Team | P | W | D | L | F | A | GD | Pts |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -20,13 +20,13 @@
 | 15 | Alfreton Town | 43 | 14 | 12 | 17 | 50 | 56 | -6 | 54 |
 | 16 | South Shields | 43 | 16 | 5 | 22 | 58 | 66 | -8 | 53 |
 | 17 | Marine | 43 | 14 | 10 | 19 | 39 | 54 | -15 | 52 |
-| 18 | Oxford City | 43 | 12 | 14 | 17 | 55 | 71 | -16 | 50 |
-| 19 | Southport | 43 | 12 | 13 | 18 | 41 | 56 | -15 | 49 |
-| 20 | Radcliffe Borough | 43 | 12 | 11 | 20 | 53 | 68 | -15 | 47 |
+| 18 | Radcliffe Borough | 44 | 13 | 11 | 20 | 55 | 69 | -14 | 50 |
+| 19 | Oxford City | 43 | 12 | 14 | 17 | 55 | 71 | -16 | 50 |
+| 20 | Southport | 43 | 12 | 13 | 18 | 41 | 56 | -15 | 49 |
 | 21 | Needham Market | 43 | 10 | 9 | 24 | 43 | 70 | -27 | 39 |
 | 22 | Rushall | 43 | 9 | 8 | 26 | 39 | 88 | -49 | 35 |
 | 23 | Warrington | 43 | 6 | 12 | 25 | 34 | 67 | -33 | 30 |
-| 24 | Farsley Celtic | 43 | 7 | 5 | 31 | 34 | 103 | -69 | 26 |
+| 24 | Farsley Celtic | 44 | 7 | 5 | 32 | 35 | 105 | -70 | 26 |
 
 ## Accreditation 
 
