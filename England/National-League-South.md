@@ -1,5 +1,5 @@
 # National League South Table (2024-2025)
-## Updated: 04-May-2025
+## Updated: 18-May-2025
 
 | Pos | Team | P | W | D | L | F | A | GD | Pts |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
