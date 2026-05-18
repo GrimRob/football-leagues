@@ -1,5 +1,5 @@
 # Championship Table (2025-2026)
-## Updated: 02-May-2026
+## Updated: 12-May-2026
 
 | Pos | Team | P | W | D | L | F | A | GD | Pts |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
