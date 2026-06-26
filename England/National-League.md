@@ -1,4 +1,4 @@
-# National League Table (2025-2026)
+# National League Table (2026-2027)
 ## Updated: 10-May-2026
 
 | Pos | Team | P | W | D | L | F | A | GD | Pts |
