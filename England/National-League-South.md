@@ -1,5 +1,5 @@
 # National League South Table (2026-2027)
-## Updated: 09-May-2026
+## Updated: 31-Aug-2026
 
 | Pos | Team | P | W | D | L | F | A | GD | Pts |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
