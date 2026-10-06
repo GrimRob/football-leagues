@@ -1,5 +1,5 @@
 # Premier League Table (2026-2027)
-## Updated: 06-Sept-2026
+## Updated: 20-Sept-2026
 
 | Pos | Team | P | W | D | L | F | A | GD | Pts |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
