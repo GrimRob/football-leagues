@@ -1,5 +1,5 @@
 # League Two Table (2026-2027)
-## Updated: 27-Oct-2026
+## Updated: 31-Oct-2026
 
 | Pos | Team | P | W | D | L | F | A | GD | Pts |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
