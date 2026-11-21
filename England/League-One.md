@@ -1,5 +1,5 @@
 # League One Table (2026-2027)
-## Updated: 14-Nov-2026
+## Updated: 21-Nov-2026
 
 | Pos | Team | P | W | D | L | F | A | GD | Pts |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
