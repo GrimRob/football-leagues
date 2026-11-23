@@ -1,5 +1,5 @@
 # National League South Table (2026-2027)
-## Updated: 21-Nov-2026
+## Updated: 23-Nov-2026
 
 | Pos | Team | P | W | D | L | F | A | GD | Pts |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -7,12 +7,12 @@
 | 2 | Truro City | 16 | 10 | 4 | 2 | 31 | 12 | 19 | 34 |
 | 3 | Salisbury | 16 | 9 | 5 | 2 | 30 | 13 | 17 | 32 |
 | 4 | Farnham Town | 17 | 10 | 2 | 5 | 33 | 20 | 13 | 32 |
-| 5 | Maidstone United | 17 | 10 | 2 | 5 | 28 | 20 | 8 | 32 |
+| 5 | Maidstone United | 18 | 10 | 2 | 6 | 28 | 21 | 7 | 32 |
 | 6 | Billericay | 16 | 8 | 6 | 2 | 38 | 19 | 19 | 30 |
-| 7 | Dorking Wanderers | 16 | 7 | 7 | 2 | 36 | 25 | 11 | 28 |
-| 8 | Tonbridge Angels | 18 | 8 | 4 | 6 | 31 | 20 | 11 | 28 |
-| 9 | Dagenham | 17 | 8 | 4 | 5 | 16 | 13 | 3 | 28 |
-| 10 | Chelmsford | 17 | 5 | 11 | 1 | 27 | 19 | 8 | 26 |
+| 7 | Chelmsford | 18 | 6 | 11 | 1 | 28 | 19 | 9 | 29 |
+| 8 | Dorking Wanderers | 16 | 7 | 7 | 2 | 36 | 25 | 11 | 28 |
+| 9 | Tonbridge Angels | 18 | 8 | 4 | 6 | 31 | 20 | 11 | 28 |
+| 10 | Dagenham | 17 | 8 | 4 | 5 | 16 | 13 | 3 | 28 |
 | 11 | Dover | 15 | 7 | 4 | 4 | 22 | 20 | 2 | 25 |
 | 12 | Torquay | 16 | 6 | 6 | 4 | 24 | 17 | 7 | 24 |
 | 13 | Weston-S-Mare | 16 | 6 | 4 | 6 | 26 | 23 | 3 | 22 |
